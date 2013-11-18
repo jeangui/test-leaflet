@@ -1,4 +1,4 @@
-test-iron-router
+test-leaflet
 ================
 
-testings and learning of the iron-router meteor component
+testings and learning of the leaflet meteor component
